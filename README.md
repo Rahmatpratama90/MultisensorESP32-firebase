@@ -1,4 +1,4 @@
-# MultisensorESP32-firebase experiment with multisensorESP32tofirebase as a cloud
+# Multisensor ESP32 to Firebase as a Cloud Storage
 
 # I. Getting Started
 * This Repository Contain Arduino Multisensor Code with Firebase as a Cloud Storage
